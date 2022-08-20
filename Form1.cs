@@ -121,7 +121,7 @@ namespace Semana4_juego_de_parejas_CSharp
                 }
             }
 
-            MessageBox.Show("Felicidades haz completado todas las parejas");
+            MessageBox.Show("¡Felicidades! haz completado todas las parejas");
             Close();
         }
     }
